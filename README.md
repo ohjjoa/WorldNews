@@ -7,16 +7,7 @@
 * 자세한 기사는 URL로 웹뷰로 보입니다.
 * News API를 이용하고 있습니다.
 ## Screenshot
-![1](https://github.com/ohjjoa/WorldNews/assets/44994476/16733d0f-dd17-4aa5-8f8f-dc4ef653d5b8)
-![2](https://github.com/ohjjoa/WorldNews/assets/44994476/236955a4-5949-49a6-a1be-6a824f413130)
-![3](https://github.com/ohjjoa/WorldNews/assets/44994476/13bb73f3-a558-48fa-9e6b-1492595b557a)
-![4](https://github.com/ohjjoa/WorldNews/assets/44994476/9100c116-9e05-4762-bed0-d7dee20d35e8)
-
-
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/16733d0f-dd17-4aa5-8f8f-dc4ef653d5b8" width="300"/>
-
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/236955a4-5949-49a6-a1be-6a824f413130" width="300"/>
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/13bb73f3-a558-48fa-9e6b-1492595b557a" width="300"/>
-
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/9100c116-9e05-4762-bed0-d7dee20d35e8" width="300"/>
-
