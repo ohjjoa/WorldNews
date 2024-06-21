@@ -8,6 +8,7 @@
 * News API를 이용하고 있습니다.
 ## Screenshot
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/16733d0f-dd17-4aa5-8f8f-dc4ef653d5b8" width="300"/>
+<img src="https://github.com/ohjjoa/WorldNews/assets/44994476/f1c9d205-9ac8-49fd-b791-a507c9c321c3" width="300"/>
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/236955a4-5949-49a6-a1be-6a824f413130" width="300"/>
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/13bb73f3-a558-48fa-9e6b-1492595b557a" width="300"/>
 <img src="https://github.com/ohjjoa/WorldNews/assets/44994476/9100c116-9e05-4762-bed0-d7dee20d35e8" width="300"/>
