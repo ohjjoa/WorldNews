@@ -11,3 +11,6 @@
 ![2](https://github.com/ohjjoa/WorldNews/assets/44994476/236955a4-5949-49a6-a1be-6a824f413130)
 ![3](https://github.com/ohjjoa/WorldNews/assets/44994476/13bb73f3-a558-48fa-9e6b-1492595b557a)
 ![4](https://github.com/ohjjoa/WorldNews/assets/44994476/9100c116-9e05-4762-bed0-d7dee20d35e8)
+
+
+<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif](https://github.com/ohjjoa/WorldNews/assets/44994476/16733d0f-dd17-4aa5-8f8f-dc4ef653d5b8"/>
