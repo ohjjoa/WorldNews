@@ -13,4 +13,4 @@
 ![4](https://github.com/ohjjoa/WorldNews/assets/44994476/9100c116-9e05-4762-bed0-d7dee20d35e8)
 
 
-<img width="80%" src="https://user-images.githubusercontent.com/16822641/109461495-913fc480-7aa5-11eb-9d0e-aff762669f98.gif](https://github.com/ohjjoa/WorldNews/assets/44994476/16733d0f-dd17-4aa5-8f8f-dc4ef653d5b8"/>
+<img width="80%" src="https://github.com/ohjjoa/WorldNews/assets/44994476/16733d0f-dd17-4aa5-8f8f-dc4ef653d5b8"/>
